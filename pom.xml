@@ -11,6 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>dscjwtshrio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
     <name>dscjwtshrio</name>
     <description>Demo project for Spring Boot</description>
 
